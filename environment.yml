@@ -1,0 +1,13 @@
+name: radial_interactive_env
+
+channels:
+  - conda-forge
+  - defaults
+  - r
+
+dependencies:
+  - python
+  - pandas
+  - jupyterlab
+  - scikit-learn
+  - r-ggplot2
