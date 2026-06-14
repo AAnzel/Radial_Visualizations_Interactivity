@@ -1,0 +1,197 @@
+library_id,library_name,pattern,interaction_category,coder1_support,coder2_support
+1,Plotly,Tree,Focus+Context,Partial,Partial
+1,Plotly,Tree,Multiple Views,Partial,Partial
+1,Plotly,Tree,Interaction with Dimensions,Partial,NA
+1,Plotly,Tree,Domain-Specific Methods,NA,NA
+1,Plotly,Star,Focus+Context,Full,Full
+1,Plotly,Star,Multiple Views,Full,Partial
+1,Plotly,Star,Interaction with Dimensions,Partial,Partial
+1,Plotly,Star,Domain-Specific Methods,NA,NA
+1,Plotly,Concentric,Focus+Context,Full,Full
+1,Plotly,Concentric,Multiple Views,Partial,Partial
+1,Plotly,Concentric,Interaction with Dimensions,Partial,Partial
+1,Plotly,Concentric,Domain-Specific Methods,NA,NA
+1,Plotly,Spiral,Focus+Context,Partial,NA
+1,Plotly,Spiral,Multiple Views,NA,NA
+1,Plotly,Spiral,Interaction with Dimensions,NA,NA
+1,Plotly,Spiral,Domain-Specific Methods,NA,NA
+1,Plotly,Euler,Focus+Context,NA,NA
+1,Plotly,Euler,Multiple Views,NA,NA
+1,Plotly,Euler,Interaction with Dimensions,NA,NA
+1,Plotly,Euler,Domain-Specific Methods,NA,NA
+1,Plotly,Connected Ring,Focus+Context,Partial,Partial
+1,Plotly,Connected Ring,Multiple Views,Partial,Partial
+1,Plotly,Connected Ring,Interaction with Dimensions,NA,Partial
+1,Plotly,Connected Ring,Domain-Specific Methods,NA,NA
+1,Plotly,Disconnected Ring,Focus+Context,Partial,Partial
+1,Plotly,Disconnected Ring,Multiple Views,Partial,Partial
+1,Plotly,Disconnected Ring,Interaction with Dimensions,NA,NA
+1,Plotly,Disconnected Ring,Domain-Specific Methods,NA,NA
+2,Altair/Vega-Lite,Tree,Focus+Context,NA,NA
+2,Altair/Vega-Lite,Tree,Multiple Views,NA,NA
+2,Altair/Vega-Lite,Tree,Interaction with Dimensions,NA,NA
+2,Altair/Vega-Lite,Tree,Domain-Specific Methods,NA,NA
+2,Altair/Vega-Lite,Star,Focus+Context,Partial,Partial
+2,Altair/Vega-Lite,Star,Multiple Views,Partial,Partial
+2,Altair/Vega-Lite,Star,Interaction with Dimensions,NA,NA
+2,Altair/Vega-Lite,Star,Domain-Specific Methods,NA,NA
+2,Altair/Vega-Lite,Concentric,Focus+Context,Partial,Partial
+2,Altair/Vega-Lite,Concentric,Multiple Views,Partial,Partial
+2,Altair/Vega-Lite,Concentric,Interaction with Dimensions,NA,NA
+2,Altair/Vega-Lite,Concentric,Domain-Specific Methods,NA,NA
+2,Altair/Vega-Lite,Spiral,Focus+Context,NA,NA
+2,Altair/Vega-Lite,Spiral,Multiple Views,NA,NA
+2,Altair/Vega-Lite,Spiral,Interaction with Dimensions,NA,NA
+2,Altair/Vega-Lite,Spiral,Domain-Specific Methods,NA,NA
+2,Altair/Vega-Lite,Euler,Focus+Context,NA,NA
+2,Altair/Vega-Lite,Euler,Multiple Views,NA,NA
+2,Altair/Vega-Lite,Euler,Interaction with Dimensions,NA,NA
+2,Altair/Vega-Lite,Euler,Domain-Specific Methods,NA,NA
+2,Altair/Vega-Lite,Connected Ring,Focus+Context,NA,NA
+2,Altair/Vega-Lite,Connected Ring,Multiple Views,NA,NA
+2,Altair/Vega-Lite,Connected Ring,Interaction with Dimensions,NA,NA
+2,Altair/Vega-Lite,Connected Ring,Domain-Specific Methods,NA,NA
+2,Altair/Vega-Lite,Disconnected Ring,Focus+Context,NA,NA
+2,Altair/Vega-Lite,Disconnected Ring,Multiple Views,NA,NA
+2,Altair/Vega-Lite,Disconnected Ring,Interaction with Dimensions,NA,NA
+2,Altair/Vega-Lite,Disconnected Ring,Domain-Specific Methods,NA,NA
+3,ggplot2,Tree,Focus+Context,NA,NA
+3,ggplot2,Tree,Multiple Views,NA,NA
+3,ggplot2,Tree,Interaction with Dimensions,NA,NA
+3,ggplot2,Tree,Domain-Specific Methods,NA,NA
+3,ggplot2,Star,Focus+Context,Partial,Partial
+3,ggplot2,Star,Multiple Views,Partial,Partial
+3,ggplot2,Star,Interaction with Dimensions,NA,NA
+3,ggplot2,Star,Domain-Specific Methods,NA,NA
+3,ggplot2,Concentric,Focus+Context,Partial,Partial
+3,ggplot2,Concentric,Multiple Views,Partial,Partial
+3,ggplot2,Concentric,Interaction with Dimensions,NA,NA
+3,ggplot2,Concentric,Domain-Specific Methods,NA,NA
+3,ggplot2,Spiral,Focus+Context,NA,NA
+3,ggplot2,Spiral,Multiple Views,NA,NA
+3,ggplot2,Spiral,Interaction with Dimensions,NA,NA
+3,ggplot2,Spiral,Domain-Specific Methods,NA,NA
+3,ggplot2,Euler,Focus+Context,NA,NA
+3,ggplot2,Euler,Multiple Views,NA,NA
+3,ggplot2,Euler,Interaction with Dimensions,NA,NA
+3,ggplot2,Euler,Domain-Specific Methods,NA,NA
+3,ggplot2,Connected Ring,Focus+Context,NA,NA
+3,ggplot2,Connected Ring,Multiple Views,NA,NA
+3,ggplot2,Connected Ring,Interaction with Dimensions,NA,NA
+3,ggplot2,Connected Ring,Domain-Specific Methods,NA,NA
+3,ggplot2,Disconnected Ring,Focus+Context,NA,NA
+3,ggplot2,Disconnected Ring,Multiple Views,NA,NA
+3,ggplot2,Disconnected Ring,Interaction with Dimensions,NA,NA
+3,ggplot2,Disconnected Ring,Domain-Specific Methods,NA,NA
+4,Observable Plot,Tree,Focus+Context,Partial,Partial
+4,Observable Plot,Tree,Multiple Views,Partial,Partial
+4,Observable Plot,Tree,Interaction with Dimensions,Partial,NA
+4,Observable Plot,Tree,Domain-Specific Methods,NA,NA
+4,Observable Plot,Star,Focus+Context,Partial,Partial
+4,Observable Plot,Star,Multiple Views,Partial,Partial
+4,Observable Plot,Star,Interaction with Dimensions,NA,Partial
+4,Observable Plot,Star,Domain-Specific Methods,NA,NA
+4,Observable Plot,Concentric,Focus+Context,Partial,Partial
+4,Observable Plot,Concentric,Multiple Views,Partial,Partial
+4,Observable Plot,Concentric,Interaction with Dimensions,Partial,Partial
+4,Observable Plot,Concentric,Domain-Specific Methods,NA,NA
+4,Observable Plot,Spiral,Focus+Context,Partial,Partial
+4,Observable Plot,Spiral,Multiple Views,NA,Partial
+4,Observable Plot,Spiral,Interaction with Dimensions,NA,NA
+4,Observable Plot,Spiral,Domain-Specific Methods,NA,NA
+4,Observable Plot,Euler,Focus+Context,NA,NA
+4,Observable Plot,Euler,Multiple Views,NA,NA
+4,Observable Plot,Euler,Interaction with Dimensions,NA,NA
+4,Observable Plot,Euler,Domain-Specific Methods,NA,NA
+4,Observable Plot,Connected Ring,Focus+Context,Partial,Partial
+4,Observable Plot,Connected Ring,Multiple Views,Partial,Partial
+4,Observable Plot,Connected Ring,Interaction with Dimensions,NA,NA
+4,Observable Plot,Connected Ring,Domain-Specific Methods,NA,NA
+4,Observable Plot,Disconnected Ring,Focus+Context,Partial,Partial
+4,Observable Plot,Disconnected Ring,Multiple Views,Partial,Partial
+4,Observable Plot,Disconnected Ring,Interaction with Dimensions,NA,NA
+4,Observable Plot,Disconnected Ring,Domain-Specific Methods,NA,NA
+5,Apache ECharts,Tree,Focus+Context,Full,Full
+5,Apache ECharts,Tree,Multiple Views,Full,Partial
+5,Apache ECharts,Tree,Interaction with Dimensions,Full,Full
+5,Apache ECharts,Tree,Domain-Specific Methods,NA,NA
+5,Apache ECharts,Star,Focus+Context,Partial,Partial
+5,Apache ECharts,Star,Multiple Views,Partial,Partial
+5,Apache ECharts,Star,Interaction with Dimensions,Partial,Partial
+5,Apache ECharts,Star,Domain-Specific Methods,NA,NA
+5,Apache ECharts,Concentric,Focus+Context,Full,Partial
+5,Apache ECharts,Concentric,Multiple Views,Partial,Partial
+5,Apache ECharts,Concentric,Interaction with Dimensions,Full,Full
+5,Apache ECharts,Concentric,Domain-Specific Methods,NA,NA
+5,Apache ECharts,Spiral,Focus+Context,NA,NA
+5,Apache ECharts,Spiral,Multiple Views,NA,NA
+5,Apache ECharts,Spiral,Interaction with Dimensions,NA,NA
+5,Apache ECharts,Spiral,Domain-Specific Methods,NA,NA
+5,Apache ECharts,Euler,Focus+Context,NA,NA
+5,Apache ECharts,Euler,Multiple Views,NA,NA
+5,Apache ECharts,Euler,Interaction with Dimensions,NA,NA
+5,Apache ECharts,Euler,Domain-Specific Methods,NA,NA
+5,Apache ECharts,Connected Ring,Focus+Context,Partial,Partial
+5,Apache ECharts,Connected Ring,Multiple Views,Partial,Partial
+5,Apache ECharts,Connected Ring,Interaction with Dimensions,Partial,Partial
+5,Apache ECharts,Connected Ring,Domain-Specific Methods,NA,NA
+5,Apache ECharts,Disconnected Ring,Focus+Context,Partial,Partial
+5,Apache ECharts,Disconnected Ring,Multiple Views,Partial,Partial
+5,Apache ECharts,Disconnected Ring,Interaction with Dimensions,NA,NA
+5,Apache ECharts,Disconnected Ring,Domain-Specific Methods,NA,NA
+6,Nivo,Tree,Focus+Context,NA,NA
+6,Nivo,Tree,Multiple Views,NA,NA
+6,Nivo,Tree,Interaction with Dimensions,NA,NA
+6,Nivo,Tree,Domain-Specific Methods,NA,NA
+6,Nivo,Star,Focus+Context,Full,Full
+6,Nivo,Star,Multiple Views,Partial,Partial
+6,Nivo,Star,Interaction with Dimensions,Full,Full
+6,Nivo,Star,Domain-Specific Methods,NA,NA
+6,Nivo,Concentric,Focus+Context,Full,Full
+6,Nivo,Concentric,Multiple Views,Partial,Partial
+6,Nivo,Concentric,Interaction with Dimensions,Full,Full
+6,Nivo,Concentric,Domain-Specific Methods,NA,NA
+6,Nivo,Spiral,Focus+Context,NA,NA
+6,Nivo,Spiral,Multiple Views,NA,NA
+6,Nivo,Spiral,Interaction with Dimensions,NA,NA
+6,Nivo,Spiral,Domain-Specific Methods,NA,NA
+6,Nivo,Euler,Focus+Context,NA,NA
+6,Nivo,Euler,Multiple Views,NA,NA
+6,Nivo,Euler,Interaction with Dimensions,NA,NA
+6,Nivo,Euler,Domain-Specific Methods,NA,NA
+6,Nivo,Connected Ring,Focus+Context,NA,NA
+6,Nivo,Connected Ring,Multiple Views,NA,NA
+6,Nivo,Connected Ring,Interaction with Dimensions,NA,NA
+6,Nivo,Connected Ring,Domain-Specific Methods,NA,NA
+6,Nivo,Disconnected Ring,Focus+Context,NA,NA
+6,Nivo,Disconnected Ring,Multiple Views,NA,NA
+6,Nivo,Disconnected Ring,Interaction with Dimensions,NA,NA
+6,Nivo,Disconnected Ring,Domain-Specific Methods,NA,NA
+7,amCharts,Tree,Focus+Context,Partial,Full
+7,amCharts,Tree,Multiple Views,Partial,Partial
+7,amCharts,Tree,Interaction with Dimensions,Full,Full
+7,amCharts,Tree,Domain-Specific Methods,NA,NA
+7,amCharts,Star,Focus+Context,Partial,Partial
+7,amCharts,Star,Multiple Views,Partial,Partial
+7,amCharts,Star,Interaction with Dimensions,Partial,Partial
+7,amCharts,Star,Domain-Specific Methods,NA,NA
+7,amCharts,Concentric,Focus+Context,Full,Full
+7,amCharts,Concentric,Multiple Views,Full,Partial
+7,amCharts,Concentric,Interaction with Dimensions,Full,Full
+7,amCharts,Concentric,Domain-Specific Methods,NA,NA
+7,amCharts,Spiral,Focus+Context,NA,NA
+7,amCharts,Spiral,Multiple Views,NA,NA
+7,amCharts,Spiral,Interaction with Dimensions,NA,NA
+7,amCharts,Spiral,Domain-Specific Methods,NA,NA
+7,amCharts,Euler,Focus+Context,NA,NA
+7,amCharts,Euler,Multiple Views,NA,NA
+7,amCharts,Euler,Interaction with Dimensions,NA,NA
+7,amCharts,Euler,Domain-Specific Methods,NA,NA
+7,amCharts,Connected Ring,Focus+Context,NA,NA
+7,amCharts,Connected Ring,Multiple Views,NA,NA
+7,amCharts,Connected Ring,Interaction with Dimensions,NA,NA
+7,amCharts,Connected Ring,Domain-Specific Methods,NA,NA
+7,amCharts,Disconnected Ring,Focus+Context,NA,NA
+7,amCharts,Disconnected Ring,Multiple Views,NA,NA
+7,amCharts,Disconnected Ring,Interaction with Dimensions,NA,NA
+7,amCharts,Disconnected Ring,Domain-Specific Methods,NA,NA
