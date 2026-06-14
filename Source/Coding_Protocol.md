@@ -5,7 +5,7 @@
 **Date:** 14.02.2026
 
 **Authors:**
-- Aleksandar Anzel, Center for Artificial Intelligence in Public Health Research (ZKI-PH), Robert Koch Institute, Berlin, Germany
+- Aleksandar Anžel, Center for Artificial Intelligence in Public Health Research (ZKI-PH), Robert Koch Institute, Berlin, Germany
 - Georges Hattab, Center for Artificial Intelligence in Public Health Research (ZKI-PH), Robert Koch Institute, and Department of Mathematics and Computer Science, Freie Universität Berlin, Germany
 
 **Associated manuscript:**
