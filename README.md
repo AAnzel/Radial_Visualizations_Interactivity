@@ -7,8 +7,25 @@ This repository is created for the following paper:
 
 Please cite the paper as:
 ```latex
-Placeholder
+@Article{Anžel2026,
+  author={An{\v{z}}el, Aleksandar
+  and Hattab, Georges},
+  title={Limitations of interaction techniques in modern radial chart implementations},
+  journal={Discover Computing},
+  year={2026},
+  month={08},
+  day={04},
+  volume={29},
+  number={1},
+  pages={500},
+  abstract={Radial visualization has gained prominence as a versatile approach to exploring complex, multivariate data in information visualization research and practice. However, the interactive potential of radial visualizations remains under-synthesized across existing high-level visualization libraries. In this work, we build upon Kosara et al.'s interaction taxonomy and Draper et al.'s seven radial design patterns to provide a systematic review of peer-reviewed studies and commercial systems, combined with supplementary research to capture significant recent developments beyond prior surveys. We assess the interactive capabilities of these individual tools/systems alongside seven leading high-level visualization libraries and map their support for Focus+Context, Multiple Views, Interaction with Dimensions, and Domain-Specific Methods across a range of radial visual designs. Our analysis reveals that while Focus+Context and Multiple View interactions are increasingly common in modern libraries, Interaction with Dimensions and specialized domain methods remain limited, especially outside standard Star and Concentric layouts. Targeted supplementary research also surfaces numerous contemporary systems that address previously unrecognized gaps. Our work not only reveals these critical gaps, but also identifies practical opportunities and emerging directions for advancing interactivity and methodological rigor in the development of future radial visualization tools and libraries.},
+  issn={2948-2992},
+  doi={10.1007/s10791-026-10416-2},
+  url={https://doi.org/10.1007/s10791-026-10416-2}
+}
 ```
+
+![Static Badge](https://img.shields.io/badge/DOI%3A-10.1007%2Fs10791--026--10416--2-blue?color=blue&link=https%3A%2F%2Fdoi.org%2F10.1007%2Fs10791-026-10416-2)
 
 ---
 Abstract:
