@@ -25,7 +25,7 @@ Please cite the paper as:
 }
 ```
 
-![Static Badge](https://img.shields.io/badge/DOI%3A-10.1007%2Fs10791--026--10416--2-blue?color=blue&link=https%3A%2F%2Fdoi.org%2F10.1007%2Fs10791-026-10416-2)
+[![DOI](./Data/DOI_badge.svg)](https://doi.org/10.1007/s10791-026-10416-2)
 
 ---
 Abstract:
