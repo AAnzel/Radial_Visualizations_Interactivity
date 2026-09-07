@@ -6,7 +6,7 @@ This repository is created for the following paper:
 ***"Limitations of Interaction Techniques in Modern Radial Chart Implementations"*** by Aleksandar Anžel and Georges Hattab
 
 Please cite the paper as:
-```latex
+```bibtex
 @Article{Anžel2026,
   author={An{\v{z}}el, Aleksandar
   and Hattab, Georges},
